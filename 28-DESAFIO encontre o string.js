@@ -36,5 +36,3 @@ const filme = {
  }
 
  exibirPropriedades(filme);
-
- //péssimo desafio..
